@@ -19,6 +19,7 @@ public class Main {
             break;
             case 4: System.out.println(liczba1/liczba2);
             break;
+
         }
     }
 }
